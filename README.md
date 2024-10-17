@@ -60,7 +60,7 @@ Understanding the parameters used in the simulation is crucial for modifying and
 
 ### Prerequisites
 
-- MATLAB (preferably R2021a or later)
+- MATLAB (preferably R2018b or later)
 - Basic understanding of thermodynamics and combustion processes
 
 ### Installation
