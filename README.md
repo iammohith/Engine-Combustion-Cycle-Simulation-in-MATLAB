@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a MATLAB script (`combustion.m`) that simulates the thermodynamic cycle of a combustion engine. The simulation calculates various parameters, such as piston displacement, velocity, acceleration, pressure, and temperature, throughout the engine cycle. It also explores the effects of constant and variable specific heats on the engine's performance, providing valuable insights through graphical visualizations.
+This repository contains a MATLAB script (`combustion.m`) that simulates the thermodynamic cycle of a combustion engine and result images. The simulation calculates various parameters, such as piston displacement, velocity, acceleration, pressure, and temperature, throughout the engine cycle. It also explores the effects of constant and variable specific heats on the engine's performance, providing valuable insights through graphical visualizations.
 
 ## Features
 
