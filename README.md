@@ -67,11 +67,11 @@ Understanding the parameters used in the simulation is crucial for modifying and
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/iammohith/Combustion.git
+   git clone https://github.com/iammohith/Engine-Combustion-Cycle-Simulation-in-MATLAB.git
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd Combustion
+   cd Engine-Combustion-Cycle-Simulation-in-MATLAB
    ```
 3. **Open the `combustion.m` script in MATLAB.**
 
@@ -98,27 +98,27 @@ Understanding the parameters used in the simulation is crucial for modifying and
 The simulation produces visualizations that help understand the engine cycle dynamics and the impact of variable specific heats on performance. The generated plots include:
 
 - **Change of Displacement with Crank Angle:**  
-  ![Displacement vs Crank Angle](images/displacement_crank_angle.png)  
+  ![Displacement vs Crank Angle](displacement_crank_angle.png)  
   Shows how the piston's position varies throughout the engine cycle.
 
 - **Change of Piston Velocity with Crank Angle:**  
-  ![Velocity vs Crank Angle](images/velocity_crank_angle.png)  
+  ![Velocity vs Crank Angle](velocity_crank_angle.png)  
   Illustrates the speed at which the piston moves during different phases of the cycle.
 
 - **Change of Piston Acceleration with Crank Angle:**  
-  ![Acceleration vs Crank Angle](images/acceleration_crank_angle.png)  
+  ![Acceleration vs Crank Angle](acceleration_crank_angle.png)  
   Depicts the acceleration of the piston, indicating the forces acting upon it.
 
 - **Cycle PV Diagram:**  
-  ![PV Diagram](images/pv_diagram.png)  
+  ![PV Diagram](pv_diagram.png)  
   Visual representation of the pressure-volume relationship during the compression and expansion strokes.
 
 - **Change of Pressure with Crank Angle:**  
-  ![Pressure vs Crank Angle](images/pressure_crank_angle.png)  
+  ![Pressure vs Crank Angle](pressure_crank_angle.png)  
   Demonstrates how pressure within the cylinder changes as the crankshaft rotates.
 
 - **Change of Gamma with Temperature:**  
-  ![Gamma vs Temperature](images/gamma_temperature.png)  
+  ![Gamma vs Temperature](gamma_temperature.png)  
   Highlights the variation of the heat capacity ratio (gamma) with temperature during the cycle.
 
 ## Contributing
