@@ -131,4 +131,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Thanks to the community for their contributions and support in the field of thermodynamics and engine simulations.
+I would like to express my gratitude to the following sources for providing foundational knowledge and tools that were integral to the completion of this project:
+
+- **John B. Heywood**, for his book *"Internal Combustion Engine Fundamentals"*, which provided an in-depth understanding of thermodynamic cycles and engine mechanics.
+- **Yunus A. Çengel and Michael A. Boles**, for their textbook *"Thermodynamics: An Engineering Approach"*, which greatly helped in understanding the behavior of gases under various thermodynamic conditions.
+- The **MATLAB documentation and MATLAB Central community**, which provided invaluable resources for developing the simulation and creating visualizations.
+- Various **SAE Technical Papers** on internal combustion engines and thermodynamics, which provided detailed insights into the analysis of engine performance.
