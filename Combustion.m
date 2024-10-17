@@ -1,6 +1,5 @@
 % Engine Combustion Cycle Simulation with Constant and Variable Heat Capacity Ratios
-% Author: [Your Name]
-% Date: [Date]
+% Author: [Mohith Sai Gorla]
 % Description:
 % This script simulates the combustion cycle of an internal combustion engine.
 % It calculates piston displacement, velocity, acceleration, volume, temperature,
